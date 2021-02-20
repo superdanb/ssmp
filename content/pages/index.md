@@ -26,7 +26,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: we capture evil monsters
+      - title: Capture evil monsters
         content: >
           We specialize in Saber Tooth Skunk, Tunnel Fish, Yak-in-the-Box and
           Skeeter-Copter
