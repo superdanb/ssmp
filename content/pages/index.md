@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: S.S.M.P.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      s.s.m.p. is a monster fighting club
     actions:
       - label: Let's talk
         url: /contact
