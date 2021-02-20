@@ -29,7 +29,12 @@ sections:
       - title: Capture evil monsters
         content: >
           We specialize in Saber Tooth Skunk, Tunnel Fish, Yak-in-the-Box and
-          Skeeter-Copter
+          Skeeter-Copter rockodile"  haircrow  knit-wit  fish-kabob 
+          super-goop  
+
+
+          (shadow smashrs)  baloon goon snombie  p-rex blincer meet eating
+          vegetables trash-squatch hittin' mitten pool shark
       - title: Discover new monsters
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
