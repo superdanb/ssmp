@@ -27,10 +27,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: we capture evil monsters
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          we specialize in Saber Tooth Skunk, Tunnel Fish, Yak-in-the-Box and
+          Skeeter-Copter
       - title: we discover new monsters
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
