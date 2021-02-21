@@ -36,6 +36,12 @@ sections:
           (shadow smashrs)  baloon goon snombie  p-rex blincer meet eating
           vegetables trash-squatch hittin' mitten pool shark
       - title: Discover new monsters
+        content: |
+          *   blah 
+
+          *   blah
+
+          *   blah
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
