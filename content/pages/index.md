@@ -37,7 +37,9 @@ sections:
           vegetables trash-squatch hittin' mitten pool shark
       - title: Discover new monsters
         content: |
-          *   blah 
+          Here are a bunch of our latest discoveries:
+
+          *   blah
 
           *   blah
 
