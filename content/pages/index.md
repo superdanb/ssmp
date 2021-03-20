@@ -8,8 +8,7 @@ sections:
     content: |
       s.s.m.p. is a monster fighting club
     actions:
-      - label: Let's talk
-        url: /contact
+      - url: /contact
         style: button
   - section_id: services
     type: section_grid
