@@ -39,7 +39,7 @@ sections:
         content: |
           Here are a bunch of our latest discoveries:
 
-          *   blah
+          *   legs of doom
 
           *   blah
 
