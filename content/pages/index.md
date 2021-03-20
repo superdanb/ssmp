@@ -10,7 +10,7 @@ sections:
     actions:
       - url: /contact
         style: button
-        label: let's captu
+        label: let's captur
   - section_id: services
     type: section_grid
     title: What We Do
